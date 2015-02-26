@@ -1,4 +1,11 @@
 
+Note: this requires:
+```
+set -g base-index 1
+set -g pane-base-index 1
+```
+
+in your tmux configuration, in order to work
 
 ## Generating Sample JSON
 
